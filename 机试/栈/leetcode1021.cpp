@@ -1,3 +1,4 @@
+#include<string>
 class Solution {
 public:
     string removeOuterParentheses(string S) {
